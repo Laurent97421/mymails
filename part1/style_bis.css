@@ -1,0 +1,52 @@
+body{
+    background-color: #f5f6fa;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.bloc-message{
+    background-color: #fff;
+    border: 1px solid #dadada;
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+
+.person{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    align-items: flex-start;
+    margin: 0 15px 0 15px;
+}
+
+h6{
+    font-family:  "Open Sans", sans-serif;
+    font-weight: 600;
+    margin-bottom: 5px;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+p{
+    /* text-align: center; */
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+
+.thrash{
+    width: 15px;
+    height: 15px;
+    margin: 0 15px;
+}
+
