@@ -37,3 +37,13 @@ h6 {
 .last-row {
     border-bottom: 1px solid #DADADA;
 }
+
+#new-message{
+    padding-right: 400px;
+    margin-right: 10px;
+}
+
+
+#button-add:focus{
+    outline: 0;
+}
