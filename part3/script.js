@@ -18,8 +18,8 @@ document.getElementById('btn-add').addEventListener('click', addButton);
 
 function addButton() {
 
-    // Detection du clic
-    console.log('clic')
+    // // Detection du clic
+    // console.log('clic')
 
     // On stocke le message qu'on a ecrit
     var newMail = document.getElementById('new-message').value
